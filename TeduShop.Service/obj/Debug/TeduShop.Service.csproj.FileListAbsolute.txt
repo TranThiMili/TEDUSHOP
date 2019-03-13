@@ -1,0 +1,11 @@
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeaduShop.Model.dll
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeaduShop.Model.pdb
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+D:\1. Project\4. TedShop\Solution1\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
